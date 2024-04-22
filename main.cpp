@@ -6,7 +6,7 @@
 #include <conio.h>
 using namespace std;
 
-//#include "cashflowminimizer.h"
+#include "cashflowminimizer.h"
 #include "flightreserve.h"
 
 int main()
